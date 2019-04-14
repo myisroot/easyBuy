@@ -1,0 +1,28 @@
+2019-04-12 07:12:00 上午 [Thread: http-apr-8080-exec-4][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) ]
+INFO:{dataSource-1} inited
+2019-04-12 08:27:00 上午 [Thread: http-apr-8080-exec-4][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) ]
+INFO:{dataSource-1} inited
+2019-04-12 08:27:37 上午 [Thread: http-apr-8080-exec-12][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist.login(ReGist.java:129) ]
+INFO:登入成功
+2019-04-12 08:27:37 上午 [Thread: http-apr-8080-exec-9][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist.login(ReGist.java:129) ]
+INFO:登入成功
+2019-04-12 08:27:44 上午 [Thread: http-apr-8080-exec-3][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist.login(ReGist.java:129) ]
+INFO:登入成功
+2019-04-12 08:27:44 上午 [Thread: http-apr-8080-exec-2][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist.login(ReGist.java:129) ]
+INFO:登入成功
+2019-04-12 08:40:40 上午 [Thread: http-apr-8080-exec-4][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist.login(ReGist.java:129) ]
+INFO:登入成功
+2019-04-12 08:40:40 上午 [Thread: http-apr-8080-exec-6][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist.login(ReGist.java:129) ]
+INFO:登入成功
+2019-04-12 08:41:11 上午 [Thread: http-apr-8080-exec-7][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist.exit(ReGist.java:160) ]
+INFO:退出成功
+2019-04-12 08:42:10 上午 [Thread: http-apr-8080-exec-7][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist$$M$_jr_5375490D13DE10A9_1.exit(ReGist.java:161) ]
+INFO:退出成功
+2019-04-12 08:42:11 上午 [Thread: http-apr-8080-exec-11][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist$$M$_jr_5375490D13DE10A9_1.login(ReGist.java:130) ]
+INFO:登入成功
+2019-04-12 08:42:11 上午 [Thread: http-apr-8080-exec-9][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist$$M$_jr_5375490D13DE10A9_1.login(ReGist.java:130) ]
+INFO:登入成功
+2019-04-12 08:42:45 上午 [Thread: http-apr-8080-exec-9][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist$$M$_jr_5375490D13DE10A9_1.login(ReGist.java:130) ]
+INFO:登入成功
+2019-04-12 08:42:45 上午 [Thread: http-apr-8080-exec-12][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist$$M$_jr_5375490D13DE10A9_1.login(ReGist.java:130) ]
+INFO:登入成功

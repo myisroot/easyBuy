@@ -1,0 +1,6 @@
+2019-04-14 17:46:44 下午 [Thread: http-apr-8080-exec-4][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) ]
+INFO:{dataSource-1} inited
+2019-04-14 17:46:53 下午 [Thread: http-apr-8080-exec-4][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist.login(ReGist.java:129) ]
+INFO:登入成功
+2019-04-14 17:46:53 下午 [Thread: http-apr-8080-exec-6][ Class:com.easybuynet.web.pre.ReGist >> Method: com.easybuynet.web.pre.ReGist.login(ReGist.java:129) ]
+INFO:登入成功

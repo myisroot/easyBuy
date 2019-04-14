@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/logs/info.log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/dao/EasyNews/IEasyNews.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/dao/EasyOrder/IEasyOrder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/dao/EasyOrder/IEasyOrderImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/dao/EasyOrderDetail/IEasyOrderDetail.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/dao/EasyOrderDetail/IEasyOrderDetailImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/dao/EasyProduct/IEasyProduct.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/dao/EasyProductCategory/IEasyProductCategory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/dao/EasyUserAddress/IEasyUserAddress.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/dao/EasyUserAddress/IEasyUserAddressImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/entity/Easy_news.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/entity/PageBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/service/EasyNewsService/IEasyNewsService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/service/EasyProductCategoryService/IAddressService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/service/EasyProductCategoryService/IAddressServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/service/EasyProductCategoryService/IEasyProductCategoryService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/service/EasyProductCategoryService/IEasyProductCategoryServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/service/EasyProductCategoryService/IEasyProductService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/service/EasyProductCategoryService/IEasyProductServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/service/OrderService/ICartService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/service/OrderService/ICartServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/service/OrderService/IOrderService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/service/OrderService/IOrderServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/service/User/IUserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/utils/SendEmail.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/web/GetCode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/web/admin/Login.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/web/admin/Order.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/web/admin/Product.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/web/pre/Home.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/web/pre/Product.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/web/pre/ReGist.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/easybuynet/web/pre/ShoppingCat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/jdbc.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/shop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/shop/js/num.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/shop/js/shade.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/shop/order.jsp" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
